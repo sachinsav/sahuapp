@@ -1,6 +1,6 @@
 # sahuapp
-#Blog
-#Website
+# Blog
+# Website
 
 This is Blog Posting Website , Here You can post Blog of various CAtegory.
 
@@ -11,5 +11,5 @@ Step to Setup This Website in your computer:<br>
  ii) 1st table name : emails<br>
  <img src="Screenshot (20).png"><br>
  
- iii) 2nd table name : post
+ iii) 2nd table name : posts
  <img src="Screenshot (21).png">
