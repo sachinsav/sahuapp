@@ -142,6 +142,7 @@ session_start();
 							<li><a href="sort.php?type=biography">Biography</a></li>
 							<li><a href="sort.php?type=fiction">Fiction</a></li>
 							<li><a href="sort.php?type=thriller">Thriller</a></li>
+							<li><a href="sort.php?type=Entertainment">Entertainment</a></li>
 						</ul>	
 				</div>
 			</div>

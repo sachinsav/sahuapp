@@ -79,7 +79,7 @@ include("connection.php");
   {
     $email = htmlentities(mysqli_real_escape_string($con, $_POST['email']));
     $pass = htmlentities(mysqli_real_escape_string($con, $_POST['pass']));
-    if($email=='sachin.saw.13@gmail.com' && $pass=="123")
+    if($email=='sachin@gmail.com' && $pass=="123")
     {
       $_SESSION['user_email']=$email;
       echo "<script>window.open('home.php','_self')</script>";
