@@ -1,8 +1,12 @@
 # Blog Posting Website
 
+---
+
 This is a **Blog Posting Website**, Here User can post Blog of various Category.
 
-## Step to Setup This Website in your computer:<br>
+---
+
+## Step to setup this website in your computer:<br>
 1. Download all the file<br>
 2. Make database as shown below.
 
@@ -15,6 +19,7 @@ This is a **Blog Posting Website**, Here User can post Blog of various Category.
  iii) 2nd table name : **posts**
  <img src="Screenshot (21).png">
 
+---
 ---
 
 ## Preview of Website :
