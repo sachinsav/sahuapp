@@ -6,11 +6,11 @@ This is a **Blog Posting Website**, Here User can post Blog of various Category.
 1. Download all the file<br>
 2. Make database as shown below.
 
- i) database name : user
+ i) database name : **user**
  
- ii) 1st table name : emails<br>
+ ii) 1st table name : **emails**
  <img src="Screenshot (20).png">
  
  
- iii) 2nd table name : posts
+ iii) 2nd table name : **posts**
  <img src="Screenshot (21).png">
